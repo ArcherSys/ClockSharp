@@ -1,0 +1,15 @@
+c:\xampp\htdocs\ClockSharp\ClockSharp\bin\Debug\ClockSharp.exe.config
+c:\xampp\htdocs\ClockSharp\ClockSharp\bin\Debug\ClockSharp.exe
+c:\xampp\htdocs\ClockSharp\ClockSharp\bin\Debug\ClockSharp.pdb
+c:\xampp\htdocs\ClockSharp\ClockSharp\bin\Debug\ArcherSysOS.dll
+c:\xampp\htdocs\ClockSharp\ClockSharp\bin\Debug\ArcherSysOS.pdb
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.csprojResolveAssemblyReference.cache
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.Form1.resources
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.Properties.Resources.resources
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.csproj.GenerateResource.Cache
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.exe
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.pdb
+c:\xampp\htdocs\ClockSharp\ClockSharp\bin\Debug\ClockSharp.exe.manifest
+c:\xampp\htdocs\ClockSharp\ClockSharp\bin\Debug\ClockSharp.application
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.exe.manifest
+c:\xampp\htdocs\ClockSharp\ClockSharp\obj\Debug\ClockSharp.application
